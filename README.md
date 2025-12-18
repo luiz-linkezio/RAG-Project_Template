@@ -1,1 +1,1 @@
-# RAG_Project_Template
+# RAG Project Template
